@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e964daf-9841-4da3-bad6-f49e334b0192" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="momao" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D3UdzmHeczfkeUNgBHFfOYsEqk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\冉强\Desktop\源码大全\java\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
+      <recent name="C:\Users\冉强\Desktop\源码大全\java\reggie_take_out\src\main\resources\front" />
+      <recent name="C:\Users\冉强\Desktop\源码大全\java\reggie_take_out\src\main\java\com\itheima\reggie\controller" />
+      <recent name="C:\Users\冉强\Desktop\源码大全\java\reggie_take_out\src\main\resources" />
+      <recent name="C:\Users\冉强\Desktop\源码大全\java\reggie_take_out\src\main\java\com\itheima\reggie\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\冉强\Desktop\源码大全\java\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8e964daf-9841-4da3-bad6-f49e334b0192" name="变更" comment="" />
+      <created>1659927364717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659927364717</updated>
+      <workItem from="1659927365982" duration="14146000" />
+      <workItem from="1659962908135" duration="5793000" />
+      <workItem from="1660014105938" duration="10783000" />
+      <workItem from="1660044633347" duration="702000" />
+      <workItem from="1660045359326" duration="8048000" />
+      <workItem from="1660107915968" duration="5674000" />
+      <workItem from="1660121375305" duration="10896000" />
+      <workItem from="1660179705773" duration="6479000" />
+      <workItem from="1660213486626" duration="15789000" />
+      <workItem from="1660267205800" duration="14260000" />
+      <workItem from="1660312590184" duration="3713000" />
+      <workItem from="1660385384764" duration="8488000" />
+      <workItem from="1660449124598" duration="5887000" />
+      <workItem from="1660481879548" duration="5367000" />
+      <workItem from="1660535954918" duration="4992000" />
+      <workItem from="1660566722368" duration="2024000" />
+      <workItem from="1660568783930" duration="72000" />
+      <workItem from="1660568878195" duration="81000" />
+    </task>
+    <task id="LOCAL-00001" summary="001">
+      <created>1660567935744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660567935744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="001">
+      <created>1660568792481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660568792481</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="001" />
+    <option name="LAST_COMMIT_MESSAGE" value="001" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/MyMetaObjectHandler.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
